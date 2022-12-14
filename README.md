@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/C++-important?style=flat-square&logo=c&logoColor=white)
 
 <br/>
-<h2>DMU MCA Project <img alt="project-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/512px-Circle-icons-tools.svg.png" width="20"></h2>
+<h2>University Project <img alt="project-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/512px-Circle-icons-tools.svg.png" width="20"></h2>
 <table>
   <thead align="center">
     <tr border: none;>
