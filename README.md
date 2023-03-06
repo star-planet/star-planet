@@ -1,7 +1,7 @@
 # Hi, I'm Hyun
 
-<p>Welcom to my page.<br/>
-  I'm from Korea</p>
+Welcom to my page.
+I'm from Korea
 
 <br/>
 <h2>My tech stack <img alt="stack-icon" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Circle-icons-stack.svg" width="20"/></h2>
