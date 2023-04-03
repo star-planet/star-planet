@@ -1,4 +1,4 @@
-# Hi, I'm Hyun
+# Hi, I'm Hyeon
 
 Welcom to my page.</br>
 I'm from Korea</br>
