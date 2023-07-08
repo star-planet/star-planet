@@ -33,4 +33,5 @@ I'm from Korea</br>
 </table>
 
 <h2>Now studying</h2>
-![Unreal](https://img.shields.io/badge/Unreal-black?style=flat-square&logo=ros&logoColor=white)
+
+![Unreal](https://img.shields.io/badge/Unreal-black?style=flat-square&logo=python&logoColor=white)
