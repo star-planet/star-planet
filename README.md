@@ -34,4 +34,4 @@ I'm from Korea</br>
 
 <h2>Now studying</h2>
 
-![UnrealEngine](https://img.shields.io/badge/Unreal-black?style=flat-square&logo=unrealengine&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/UnrealEngine-black?style=flat-square&logo=unrealengine&logoColor=white)
