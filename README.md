@@ -11,7 +11,6 @@ I'm from Korea</br>
 ![C++](https://img.shields.io/badge/C++-important?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-purple?style=flat-square&logo=python&logoColor=white)-->
 
-<br/>
 <h2>University Project <img alt="project-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/512px-Circle-icons-tools.svg.png" width="20"></h2>
 <table>
   <thead align="center">
