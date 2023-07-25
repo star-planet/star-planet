@@ -4,6 +4,11 @@ Welcom to my page.</br>
 I'm from Korea</br>
 
 <br/>
+<h2>My tech stack <img alt="stack-icon" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Circle-icons-stack.svg" width="20"/></h2>
+
+![ROS](https://img.shields.io/badge/ROS-blue?style=flat-square&logo=ros&logoColor=white)
+![C](https://img.shields.io/badge/C-red?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-important?style=flat-square&logo=c&logoColor=white)
 
 <br/>
 <h2>University Project <img alt="project-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/512px-Circle-icons-tools.svg.png" width="20"></h2>
