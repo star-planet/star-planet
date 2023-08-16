@@ -35,6 +35,7 @@ I'm from Korea</br>
 </table>
 
 <br/>
+<h2>ROS [2021.12 ~ 2023.06]</h2>
+![ROS](https://img.shields.io/badge/ROS-blue?style=flat-square&logo=ros&logoColor=white)
 <h2>Now studying [2023.07 ~]</h2>
-
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-black?style=flat-square&logo=unrealengine&logoColor=white)
