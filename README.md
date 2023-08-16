@@ -28,6 +28,9 @@ I'm from Korea</br>
     <tr>
       <td><a href="https://github.com/rubynote/DMU_3-1_Project"><b>3-1 Project</b></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/rubynote/3-2_Project"><b>3-2 Project</b></td>
+    </tr>
   </tbody>
 </table>
 
