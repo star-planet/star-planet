@@ -1,40 +1,21 @@
-# Hi, I'm Hyeon
+## ❤ Introduce Myself
 
-Welcom to my page.</br>
-I'm from Korea</br>
+- I'm from Korea
+- Dongyang Mirae University, Automation Engineering
+- Learning algorithm & unreal engine
 
-<br/>
-<h2>My tech stack <img alt="stack-icon" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Circle-icons-stack.svg" width="20"/></h2>
+## 🧡 My Tech Stack 
 
-![ROS](https://img.shields.io/badge/ROS-blue?style=flat-square&logo=ros&logoColor=white)
-![C](https://img.shields.io/badge/C-red?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-important?style=flat-square&logo=c&logoColor=white)
+- <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/>
+- <img src="https://img.shields.io/badge/ROS-gray?style=flat&logo=ros&logoColor=white"/>
 
-<br/>
-<h2>University Project <img alt="project-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/512px-Circle-icons-tools.svg.png" width="20"></h2>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Project</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/rubynote/DMU_2-1_Project"><b>2-1 Project</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/rubynote/DMU_2-2_Project"><b>2-2 Project</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/rubynote/DMU_3-1_Project"><b>3-1 Project</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/rubynote/3-2_Project"><b>3-2 Project</b></td>
-    </tr>
-  </tbody>
-</table>
+## 💛 Now studying
+- <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=unrealengine&logoColor=white"/>
 
-<br/>
-<h2>Now studying [2023.07 ~]</h2>
+## 💚 University Project
+- [2-1 Project](https://github.com/rubynote/DMU_2-1_Project) : First Project
+- [2-2 Project](https://github.com/rubynote/DMU_2-2_Project) : Second Project
+- [3-1 Project](https://github.com/rubynote/DMU_3-1_Project) : Third Project
 
-![Unreal](https://img.shields.io/badge/Unreal_Engine-black?style=flat-square&logo=unrealengine&logoColor=white)
+## 💙 Card
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)](https://solved.ac/shj2012)
