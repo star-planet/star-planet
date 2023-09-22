@@ -12,7 +12,7 @@
 ## 💛 EulerOJ / BOJ
 - EulerOJ  : [shj2012](https://euleroj.io/profile/shj2012)
 - BOJ      : [shj2012](https://www.acmicpc.net/user/shj2012)
-- SolvedAC : [shj2012](https://solved.ac/profile/shj2012)
+- Solved.ac : [shj2012](https://solved.ac/profile/shj2012)
 
 ## 💚 Now studying
 - <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=unrealengine&logoColor=white"/>
