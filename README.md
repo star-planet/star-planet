@@ -10,8 +10,8 @@
 - <img src="https://img.shields.io/badge/ROS-gray?style=flat&logo=ros&logoColor=white"/>
 
 ## 💛 EulerOJ / BOJ
-- EulerOJ  : [shj2012](https://euleroj.io/profile/shj2012)
-- BOJ      : [shj2012](https://www.acmicpc.net/user/shj2012)
+- EulerOJ   : [shj2012](https://euleroj.io/profile/shj2012)
+- BOJ       : [shj2012](https://www.acmicpc.net/user/shj2012)
 - Solved.ac : [shj2012](https://solved.ac/profile/shj2012)
 
 ## 💚 Now studying
