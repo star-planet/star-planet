@@ -23,4 +23,6 @@
 - Third Project  : [3-1 Project](https://github.com/rubynote/DMU_3-1_Project)
 
 ## 💜 Card
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)](https://solved.ac/shj2012)
+|Tier|Date|
+|------|---|
+|[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)](https://solved.ac/shj2012)|`Bronze 2023.9.14`</br>`Silver 2023.9.22`|
