@@ -17,12 +17,12 @@
 - <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=unrealengine&logoColor=white"/>
 
 ## 🔵 University Project
-- First Project  : [2-1 Project](https://github.com/whiteyeoul/DMU_2-1_Project)
-- Second Project : [2-2 Project](https://github.com/whiteyeoul/DMU_2-2_Project)
-- Third Project  : [3-1 Project](https://github.com/whiteyeoul/DMU_3-1_Project)
+- First Project  : [2-1 Project](https://github.com/WhiteYeoul/Self-Driving-Project1)
+- Second Project : [2-2 Project](https://github.com/WhiteYeoul/Self-Driving-Project2)
+- Third Project  : [3-1 Project](https://github.com/WhiteYeoul/Self-Driving-Project3)
 
 ## 🟣 Personal Project
-- Project I : [RhythmGame](https://github.com/whiteyeoul/RhythmGame)
+- Project I : [RhythmGame](https://github.com/WhiteYeoul/RhythmGame)
 
 ## 🟤 Card
 |Tier|Date|
