@@ -17,11 +17,14 @@
 - <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=unrealengine&logoColor=white"/>
 
 ## 🔵 University Project
-- First Project  : [2-1 Project](https://github.com/rubynote/DMU_2-1_Project)
-- Second Project : [2-2 Project](https://github.com/rubynote/DMU_2-2_Project)
-- Third Project  : [3-1 Project](https://github.com/rubynote/DMU_3-1_Project)
+- First Project  : [2-1 Project](https://github.com/whiteyeoul/DMU_2-1_Project)
+- Second Project : [2-2 Project](https://github.com/whiteyeoul/DMU_2-2_Project)
+- Third Project  : [3-1 Project](https://github.com/whiteyeoul/DMU_3-1_Project)
 
-## 🟣 Card
+## 🟣 Personal Project
+- Project I : [RhythmGame](https://github.com/whiteyeoul/RhythmGame)
+
+## 🟤 Card
 |Tier|Date|
 |------|---|
 |[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)](https://solved.ac/shj2012)|`Bronze 2023.9.14`</br>`Silver 2023.9.22`|
