@@ -30,4 +30,4 @@
 |[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)](https://solved.ac/shj2012)|`Bronze 2023.9.14`</br>`Silver 2023.9.22`|
 
 ## 📞 Contact
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:shj2012@naver.com)](mailto:shj2012@naver.com)
+- [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:shj2012@naver.com)](mailto:shj2012@naver.com)
