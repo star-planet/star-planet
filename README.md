@@ -15,3 +15,4 @@
 
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=shj2012&theme=warm)
+![github readme stat](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteyeoul&hide_border=true&layout=compact)
