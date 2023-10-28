@@ -4,7 +4,7 @@
   <img style="margin: 10px" src="https://cdn2.unrealengine.com/ue-logo-white-e34b6ba9383f.svg" alt="C" height="50"/>
 </div>
 
-## 💻 Languages and Tools
+## 💻 Once I Used
 <div align="left">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50"/> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/> 
