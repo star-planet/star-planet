@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=90EE90&text=Hi,%20I'm%20Seong%20Hyeon&fontColor=FFFFFF&fontSize=50)
-## 📔 Current Learning
-<div align="left">
-  <img style="margin: 10px" src="https://cdn2.unrealengine.com/ue-logo-white-e34b6ba9383f.svg" alt="C" height="50"/>
-</div>
 
 ## 💻 Once I Used
 <div align="left">
