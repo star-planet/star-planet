@@ -13,11 +13,6 @@
   <img style="margin: 10px" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" height="50" />
 </div>
 
-## 📚 University Project
-- First Project  : [2-1 Project](https://github.com/WhiteYeoul/Self-Driving-Project1)
-- Second Project : [2-2 Project](https://github.com/WhiteYeoul/Self-Driving-Project2)
-- Third Project  : [3-1 Project](https://github.com/WhiteYeoul/Self-Driving-Project3)
-
 ## 🔔 Contact
 <a href="mailto:shj2012@naver.com"><img src="https://img.shields.io/badge/MAIL-green?style=flat-square&logo=naver&logoColor=white" alt="Mail" height="25" align="shj2012@naver.com"/></a>
 
