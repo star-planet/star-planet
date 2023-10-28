@@ -14,7 +14,8 @@
 </div>
 
 ## 🔔 Contact
-<a href="mailto:shj2012@naver.com"><img src="https://img.shields.io/badge/MAIL-green?style=flat-square&logo=naver&logoColor=white" alt="Mail" height="25" align="shj2012@naver.com"/></a>
+<a href="mailto:shj2012@naver.com"><img src="https://img.shields.io/badge/mail-darkgreen?style=flat-square&logo=naver&logoColor=white" alt="Mail" height="25"/></a>
+<a href="https://github.com/WhiteYeoul"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white" alt="Github" height="25"/></a>
 
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)
 ![github readme stat](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteyeoul&hide_border=true&layout=compact)
