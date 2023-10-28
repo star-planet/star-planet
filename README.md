@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=90EE90&text=Hi,%20I'm%20Seong%20Hyeon&fontColor=FFFFFF&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=90EE90&text=Hi,%20I'm%20SeongHyeon&fontColor=FFFFFF&fontSize=50)
 
 ## 💻 Once I Used
 <div align="left">
