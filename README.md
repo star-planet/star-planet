@@ -2,6 +2,7 @@
 
 <h3> 💻 Once I Used </h3>
 <p>
+  <img alt="C" src="https://img.shields.io/badge/-C-03599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-D26383?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-304060?style=flat-square&logo=ros&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FFD133?style=flat-square&logo=linux&logoColor=white" />
