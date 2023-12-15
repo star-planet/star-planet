@@ -15,5 +15,4 @@
 
 ------
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shj2012)](https://solved.ac/profile/shj2012)
-![github readme stat](https://github-readme-stats.vercel.app/api/top-langs/?username=goosebomb&hide_border=true&layout=compact)
+![Solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shj2012)
