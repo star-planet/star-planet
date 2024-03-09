@@ -16,7 +16,7 @@
 
 <a href="mailto:shj2012@naver.com">
   <img alt="Mail" src="https://img.shields.io/badge/mail-darkgreen?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="https://velog.io/@goosebomb/posts">
-  <img alt="Velog" src="https://img.shields.io/badge/Velog-21C998.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="https://jshyeon.tistory.com/">
+  <img alt="Tistory" src="https://img.shields.io/badge/Tistory-FF5D01.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoosebomb%2Fhit-counter&count_bg=%23C83DBB&title_bg=%234D4D4D&icon=wolframmathematica.svg&icon_color=%23FFFFFF&title=visit&edge_flat=true)](https://hits.seeyoufarm.com) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=shj2012)](https://solved.ac/shj2012)
