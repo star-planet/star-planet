@@ -14,8 +14,6 @@
 
 <a href="mailto:shj2012@naver.com">
   <img alt="Mail" src="https://img.shields.io/badge/mail-darkgreen?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="https://github.com/WhiteYeoul">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://jshyeon.tistory.com/">
   <img alt="Tistory" src="https://img.shields.io/badge/Tistory-FF5D01.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
