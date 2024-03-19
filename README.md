@@ -10,6 +10,7 @@
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-304060?style=flat-square&logo=ros&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FFD133?style=flat-square&logo=linux&logoColor=white" />
   <img alt="UE4" src="https://img.shields.io/badge/-UE4-000000?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 <h3> 🔔 Contact </h3>
