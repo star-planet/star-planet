@@ -7,8 +7,9 @@
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-03599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-D26383?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-FFD133?style=flat-square&logo=python&logoColor=white" />
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-304060?style=flat-square&logo=ros&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FFD133?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-F7BE81?style=flat-square&logo=linux&logoColor=white" />
   <img alt="UE4" src="https://img.shields.io/badge/-UE4-000000?style=flat-square&logo=unrealengine&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
 </p>
