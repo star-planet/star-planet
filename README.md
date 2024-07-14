@@ -1,22 +1,38 @@
-### 👀 Welcome to Hyeon's Github
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6781319b-1e05-4587-afbb-43a84173d21b"/>
+</div>
 
-> It all depends on my mind
+<h3 align="center"> 💻 Tech Stack 💻</h3>
+<div align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-D26383?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div>
 
-<h3> 💻 Once I Used </h3>
+<div align="center">
+  <img alt="ROS" src="https://img.shields.io/badge/ros-304060?style=for-the-badge&logo=ros&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/linux-F7BE81?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="UE4" src="https://img.shields.io/badge/ue4-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-<p>
-  <img alt="C" src="https://img.shields.io/badge/-C-03599C?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-D26383?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-FFD133?style=flat-square&logo=python&logoColor=white" />
-  <img alt="ROS" src="https://img.shields.io/badge/-ROS-304060?style=flat-square&logo=ros&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-F7BE81?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="UE4" src="https://img.shields.io/badge/-UE4-000000?style=flat-square&logo=unrealengine&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+<h3 align="center"> 📚 Studying 📚</h3>
+<div align="center">
+  <img alt="ROS2" src="https://img.shields.io/badge/ros2-304060?style=for-the-badge&logo=ros&logoColor=white" />
+</div>
 
-<h3> 🔔 Contact </h3>
+<h3 align="center"> 🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/> 
+</div>
 
-<a href="mailto:shj2012@naver.com">
-  <img alt="Mail" src="https://img.shields.io/badge/mail-darkgreen?style=for-the-badge&logo=naver&logoColor=white"/></a>
+<h3 align="center"> 🔔 Contact 🔔</h3>
+<div align="center">
+  <a href="mailto:shj2012@naver.com">
+    <img alt="Mail" src="https://img.shields.io/badge/shj2012@naver.com-darkgreen?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstar-planet%2Fhit-counter&count_bg=%23C83DBB&title_bg=%234D4D4D&icon=wolframmathematica.svg&icon_color=%23FFFFFF&title=visit&edge_flat=true)](https://hits.seeyoufarm.com) [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=shj2012)](https://solved.ac/shj2012)
